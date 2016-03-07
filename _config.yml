@@ -1,0 +1,28 @@
+name: Chameleon Audio
+favicon: null
+layout_spectrum: 0.49406388960778713
+typography_spectrum: 0.8353665506001562
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6283740629442036
+  lightness: 0.4779865313321352
+  saturation: 0.33239330258220434
+  rhythmicContrast: 0.7532549849711359
+purpose: []
